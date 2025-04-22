@@ -1,0 +1,1 @@
+This will be my first stab at trying to create a website. The goal with this repo is to create a main index page that will have links to a few recipes.
